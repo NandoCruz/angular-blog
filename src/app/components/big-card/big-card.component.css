@@ -1,0 +1,33 @@
+.container__gib-card{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 500px;
+  height: 600px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: none;
+}
+
+.big-card__photo > img {
+  height: 100%;
+}
+
+.big-card__title > h1{
+  font-size: 25px;
+  margin-top: 15px;
+  color: #fff;
+}
+
+.big-card__title > h1 > a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.big-card__description > p{
+  margin-top: 10px;
+  font-size: 18px;
+  color: rgb(128, 128, 128);
+}
+
