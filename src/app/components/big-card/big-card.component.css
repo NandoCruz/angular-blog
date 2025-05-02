@@ -25,9 +25,13 @@
   color: #fff;
 }
 
-.big-card__description > p{
-  margin-top: 10px;
+.big-card__description{
+  margin-top: 15px;
+}
+
+.big-card__description > a{
   font-size: 18px;
+  text-decoration: none;
   color: rgb(128, 128, 128);
 }
 
